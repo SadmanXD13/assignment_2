@@ -1,0 +1,75 @@
+div {
+    background-color: #312f44;
+    margin: 45px;
+    text-align: center;
+    padding: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.img1 {
+    width: 120px;
+    margin: auto;
+    display: block;
+    padding: 40px;
+}
+
+.img2 {
+    width: 75px;
+    margin: auto;
+    display: block;
+    padding: 35px 0px 0px;
+}
+
+h1 {
+    font-style: oblique;
+    font-size: 60px;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-weight: 900;
+}
+
+.img3 {
+
+    padding: 35px 0px 0px;
+    width: 77px;
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    background-color: #16a085;
+    padding: 10px 35px;
+    font-weight: bold;
+    border-radius: 15px;
+    display: inline-block;
+    text-align: center;
+    margin: 30px 0px 0px;
+    font-size: 15px;
+}
+
+
+p {
+    color: white;
+    margin: 35px 0px 0px;
+}
+
+.img4 {
+    width: 650px;
+    margin-top: 80px;
+}
+
+h3 {
+    font-style: oblique;
+    font-size: 60px;
+    margin: 40px 0px 0px;
+    padding: 0px;
+    color: white;
+    font-weight: 900;
+}
+
+span1{
+color: #4acc9a;;
+}
+span2{
+    color: #f99732;
+}}
